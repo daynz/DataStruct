@@ -20,7 +20,7 @@
 
 `5 20 -4 4 -5 2 9 1 -2 0`
 
-### Question 2 一元多项式求导
+### Question 2 [一元多项式求导](https://github.com/daynz/StructDataExperiment/blob/main/question2.cpp)
 设计函数求一元多项式的导数。
 
 #### 输入格式:
