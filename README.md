@@ -1,5 +1,5 @@
 # StructDataExperiment
-### Question 1 一元多项式的乘法与加法运算
+### Question 1 [一元多项式的乘法与加法运算](https://github.com/daynz/StructDataExperiment/blob/main/7-1.cpp)
 
 设计函数分别求两个一元多项式的乘积与和。
 
